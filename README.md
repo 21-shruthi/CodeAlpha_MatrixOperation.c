@@ -34,5 +34,4 @@ Transpose of Matrix:
 2 4
 ## Output Screenshot
 
-![Matrix Output](Screenshot 2026-11-22 174942.png
-.png)
+![Matrix Output](Screenshot.png)
